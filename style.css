@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(245, 241, 241);
+}
+.text{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(7, 11, 92);
+}
+.logo{
+    margin-left: 250px;
+    width: 450px;
+}
+.title{
+    font-size: 70px;
+    text-align: center;
+}
